@@ -9,3 +9,6 @@ Live Demo: https://password-generator-madebyhashim.netlify.app
 
 Quizz App
 Live Demo: https://quizapp-madebyhashim.netlify.app
+
+Weather Application
+Live Demo: https://weatherapp-madebyhashim.netlify.app/
