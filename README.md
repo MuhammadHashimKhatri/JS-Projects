@@ -11,4 +11,4 @@ Quizz App
 Live Demo: https://quizapp-madebyhashim.netlify.app
 
 Weather Application
-Live Demo: https://weatherapp-madebyhashim.netlify.app/
+Live Demo: https://weatherapp-madebyhashim.netlify.app
