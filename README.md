@@ -12,3 +12,6 @@ Live Demo: https://quizapp-madebyhashim.netlify.app
 
 Weather Application
 Live Demo: https://weatherapp-madebyhashim.netlify.app
+
+Snake Game 
+Live Demo: https://snakegamemadebyhashim.netlify.app
